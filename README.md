@@ -19,7 +19,5 @@ This project demonstrates the use of **dictionaries** and **conditional statemen
 - **Python 3.x**  
 - **Dictionary** (to store contacts in memory)
 
----
 
-## 📂 Project Structure
 
